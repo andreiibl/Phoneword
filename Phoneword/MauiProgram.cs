@@ -13,6 +13,8 @@ namespace Phoneword
                 {
                     fonts.AddFont("OpenSans-Regular.ttf", "OpenSansRegular");
                     fonts.AddFont("OpenSans-Semibold.ttf", "OpenSansSemibold");
+                    fonts.AddFont("Designer.otf", "Designer");
+                    fonts.AddFont("Poppin.ttf", "Poppin");
                 });
 
 #if DEBUG
